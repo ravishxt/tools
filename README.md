@@ -44,7 +44,7 @@ A modern, comprehensive collection of developer and utility tools built with Nex
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/truethari/OpensourceToolkit.git
+   git clone https://github.com/ravishxt/tools.git
    cd opensourcetoolkit
    ```
 
@@ -246,8 +246,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 🔗 Links
 
 - **[Live Demo](https://opensourcetoolkit.com)** - Try the tools online
-- **[Issue Tracker](https://github.com/truethari/OpensourceToolkit/issues)** - Report bugs or request features
-- **[Discussions](https://github.com/truethari/OpensourceToolkit/discussions)** - Community discussions
+- **[Issue Tracker](https://github.com/ravishxt/tools/issues)** - Report bugs or request features
+- **[Discussions](https://github.com/ravishxt/tools/discussions)** - Community discussions
 
 ---
 

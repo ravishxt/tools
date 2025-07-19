@@ -1,4 +1,4 @@
-import { ToolCase, Users, Github } from "lucide-react";
+import { ToolCase, Users } from "lucide-react";
 
 import { tools } from "@/config";
 
@@ -24,14 +24,14 @@ export default function Hero() {
           {/* Live Stats */}
           <div className="flex items-center justify-center space-x-8 text-sm text-muted-foreground">
             {/* Github link */}
-            <a
-              href="https://github.com/truethari/OpensourceToolkit"
+            {/* <a
+              href="https://github.com/ravishxt/tools"
               className="flex items-center space-x-2"
               target="_blank"
             >
               <Github className="h-4 w-4" />
               <span>View on GitHub</span>
-            </a>
+            </a> */}
 
             <div className="flex items-center space-x-2">
               <Users className="h-4 w-4" />

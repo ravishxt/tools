@@ -62,7 +62,7 @@ git clone https://github.com/YOUR_USERNAME/OpensourceToolkit.git
 cd OpensourceToolkit
 
 # Add the original repository as upstream
-git remote add upstream https://github.com/truethari/OpensourceToolkit.git
+git remote add upstream https://github.com/ravishxt/tools.git
 ```
 
 ### 2. Install Dependencies
@@ -595,6 +595,6 @@ Thank you for contributing to OpenSource Toolkit! Your contributions help make t
 
 <div align="center">
 
-**Questions?** Feel free to open a [discussion](https://github.com/truethari/OpensourceToolkit/discussions) or reach out to the maintainers.
+**Questions?** Feel free to open a [discussion](https://github.com/ravishxt/tools/discussions) or reach out to the maintainers.
 
 </div>
